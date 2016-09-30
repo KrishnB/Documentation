@@ -59,7 +59,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Optimus'
-copyright = u'2016, Sukesh Kumar , Krishnanand B'
+copyright = u'2016, TestVagrant Technologies'
 author = u'Sukesh Kumar , Krishnanand B'
 
 # The version info for the project you're documenting, acts as replacement for
