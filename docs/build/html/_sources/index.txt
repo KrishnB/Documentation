@@ -10,7 +10,7 @@ The next generation tool for mobile automation.
 Contents:
 
 .. toctree::
-   :glob:
+   :maxdepth: 2
    
    prerequisites
    
